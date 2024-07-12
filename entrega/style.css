@@ -1,0 +1,242 @@
+lement.style {
+    width: 980px;
+    height: 677px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+.MW5IWV .dLPlxY img {
+    height: 100%;
+    width: 100%;
+}
+.MW5IWV .dLPlxY img {
+    height: 100%;
+    width: 100%;
+}
+.HlRz5e img {
+    max-width: var(--wix-img-max-width, 100%);
+}
+.HlRz5e img {
+    max-width: var(--wix-img-max-width, 100%);
+}
+.HlRz5e img {
+    max-width: var(--wix-img-max-width, 100%);
+}
+.HlRz5e img {
+    max-width: var(--wix-img-max-width, 100%);
+}
+a, abbr, acronym, address, applet, b, big, blockquote, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+img[Attributes Style] {
+    width: 980px;
+    aspect-ratio: auto 980 / 677;
+    height: 677px;
+}
+user agent stylesheet
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.MW5IWV {
+    height: 100%;
+    left: 0;
+    -webkit-mask-image: var(--mask-image, none);
+    mask-image: var(--mask-image, none);
+    -webkit-mask-position: var(--mask-position, 0);
+    mask-position: var(--mask-position, 0);
+    -webkit-mask-repeat: var(--mask-repeat, no-repeat);
+    mask-repeat: var(--mask-repeat, no-repeat);
+    -webkit-mask-size: var(--mask-size, 100%);
+    mask-size: var(--mask-size, 100%);
+    overflow: hidden;
+    pointer-events: var(--fill-layer-background-media-pointer-events);
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.MW5IWV {
+    height: 100%;
+    left: 0;
+    -webkit-mask-image: var(--mask-image, none);
+    mask-image: var(--mask-image, none);
+    -webkit-mask-position: var(--mask-position, 0);
+    mask-position: var(--mask-position, 0);
+    -webkit-mask-repeat: var(--mask-repeat, no-repeat);
+    mask-repeat: var(--mask-repeat, no-repeat);
+    -webkit-mask-size: var(--mask-size, 100%);
+    mask-size: var(--mask-size, 100%);
+    overflow: hidden;
+    pointer-events: var(--fill-layer-background-media-pointer-events);
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+#comp-lg4a4xm9 {
+    --fill-layer-image-opacity: 0.3;
+    --bg-overlay-color: rgb(0, 0, 0);
+    --bg-gradient: none;
+    min-width: 980px;
+}
+[data-mesh-id$=-gridContainer]>*, [data-mesh-id$=-rotated-wrapper]>*, [data-mesh-id$=inlineContent]>:not([data-mesh-id$=-gridContainer]) {
+    pointer-events: auto;
+}
+[data-mesh-id$=centeredContent], [data-mesh-id$=form], [data-mesh-id$=inlineContent] {
+    pointer-events: none;
+    position: relative;
+}
+.SPY_vo {
+    pointer-events: none;
+}
+<style>
+#iacm3 {
+    --shc-mutated-brightness: 128, 128, 128;
+    width: auto;
+    min-height: 40px;
+}
+<style>
+#iacm3 {
+    --bg: var(--color_11);
+    --alpha-bg: 1;
+}
+#SITE_PAGES {
+    --transition-duration: 700ms;
+}
+#PAGES_CONTAINER {
+    --pinned-layer-in-container: 51;
+    --above-all-in-container: 49;
+}
+#masterPage:not(.landingPage) {
+    --top-offset: var(--header-height);
+    --header-height: 142px;
+}
+<style>
+#masterPage {
+    --pinned-layers-in-page: 0;
+}
+<style>
+#masterPage {
+    --pinned-layers-in-page: 0;
+}
+#masterPage {
+    --pinned-layers-in-page: 0;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+:root, :host, .spxThemeOverride, .max-width-container {
+    --color_0: 255, 255, 255;
+    --color_1: 255, 255, 255;
+    --color_2: 0, 0, 0;
+    --color_3: 237, 28, 36;
+    --color_4: 0, 136, 203;
+    --color_5: 255, 203, 5;
+    --color_6: 114, 114, 114;
+    --color_7: 176, 176, 176;
+    --color_8: 255, 255, 255;
+    --color_9: 114, 114, 114;
+    --color_10: 176, 176, 176;
+    --color_11: 255, 255, 255;
+    --color_12: 198, 198, 198;
+    --color_13: 106, 111, 118;
+    --color_14: 58, 64, 73;
+    --color_15: 29, 32, 37;
+    --color_16: 235, 220, 178;
+    --color_17: 214, 187, 110;
+    --color_18: 161, 140, 83;
+    --color_19: 107, 94, 55;
+    --color_20: 54, 47, 28;
+    --color_21: 195, 210, 231;
+    --color_22: 159, 178, 208;
+    --color_23: 98, 132, 184;
+    --color_24: 65, 88, 123;
+    --color_25: 33, 44, 61;
+    --color_26: 244, 192, 175;
+    --color_27: 233, 159, 134;
+    --color_28: 222, 80, 33;
+    --color_29: 148, 54, 22;
+    --color_30: 74, 27, 11;
+    --color_31: 244, 234, 177;
+    --color_32: 233, 219, 137;
+    --color_33: 222, 195, 40;
+    --color_34: 148, 130, 27;
+    --color_35: 74, 65, 13;
+    --color_36: 255, 255, 255;
+    --color_37: 29, 32, 37;
+    --color_38: 198, 198, 198;
+    --color_39: 106, 111, 118;
+    --color_40: 58, 64, 73;
+    --color_41: 161, 140, 83;
+    --color_42: 29, 32, 37;
+    --color_43: 106, 111, 118;
+    --color_44: 255, 255, 255;
+    --color_45: 58, 64, 73;
+    --color_46: 58, 64, 73;
+    --color_47: 58, 64, 73;
+    --color_48: 161, 140, 83;
+    --color_49: 161, 140, 83;
+Show all properties (40 more)
+}
+:root {
+    --wst-button-color-fill-primary: rgb(var(--color_48));
+    --wst-button-color-border-primary: rgb(var(--color_49));
+    --wst-button-color-text-primary: rgb(var(--color_50));
+    --wst-button-color-fill-primary-hover: rgb(var(--color_51));
+    --wst-button-color-border-primary-hover: rgb(var(--color_52));
+    --wst-button-color-text-primary-hover: rgb(var(--color_53));
+    --wst-button-color-fill-primary-disabled: rgb(var(--color_54));
+    --wst-button-color-border-primary-disabled: rgb(var(--color_55));
+    --wst-button-color-text-primary-disabled: rgb(var(--color_56));
+    --wst-button-color-fill-secondary: rgb(var(--color_57));
+    --wst-button-color-border-secondary: rgb(var(--color_58));
+    --wst-button-color-text-secondary: rgb(var(--color_59));
+    --wst-button-color-fill-secondary-hover: rgb(var(--color_60));
+    --wst-button-color-border-secondary-hover: rgb(var(--color_61));
+    --wst-button-color-text-secondary-hover: rgb(var(--color_62));
+    --wst-button-color-fill-secondary-disabled: rgb(var(--color_63));
+    --wst-button-color-border-secondary-disabled: rgb(var(--color_64));
+    --wst-button-color-text-secondary-disabled: rgb(var(--color_65));
+    --wst-color-fill-base-1: rgb(var(--color_36));
+    --wst-color-fill-base-2: rgb(var(--color_37));
+    --wst-color-fill-base-shade-1: rgb(var(--color_38));
+    --wst-color-fill-base-shade-2: rgb(var(--color_39));
+    --wst-color-fill-base-shade-3: rgb(var(--color_40));
+    --wst-color-fill-accent-1: rgb(var(--color_41));
+    --wst-color-fill-accent-2: rgb(var(--color_42));
+    --wst-color-fill-accent-3: rgb(var(--color_43));
+    --wst-color-fill-accent-4: rgb(var(--color_44));
+    --wst-color-fill-background-primary: rgb(var(--color_11));
+    --wst-color-fill-background-secondary: rgb(var(--color_12));
+    --wst-color-text-primary: rgb(var(--color_15));
+    --wst-color-text-secondary: rgb(var(--color_14));
+    --wst-color-action: rgb(var(--color_18));
+    --wst-color-disabled: rgb(var(--color_39));
+    --wst-color-title: rgb(var(--color_45));
+    --wst-color-subtitle: rgb(var(--color_46));
+    --wst-color-line: rgb(var(--color_47));
+    --wst-font-style-h2: var(--font_2);
+    --wst-font-style-h3: var(--font_3);
+    --wst-font-style-h4: var(--font_4);
+    --wst-font-style-h5: var(--font_5);
+    --wst-font-style-h6: var(--font_6);
+    --wst-font-style-body-large: var(--font_7);
+    --wst-font-style-body-medium: var(--font_8);
+    --wst-font-style-body-small: var(--font_9);
+    --wst-font-style-body-x-small: var(--font_10);
+}
+@supports (container-type:inline-size) {
+    :root {
+        --one-unit: 1cqw;
+    }
+}
+:root {
+    --one-unit: 1vw;
+    --section-max-width: 9999px;
+}
